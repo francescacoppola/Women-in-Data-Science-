@@ -1,0 +1,19 @@
+.imagen_cv{
+    width: 200px;
+    border: 4px solid purple;
+}
+
+.center{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: black;
+    background-color: aquamarine;
+    
+}
+
+.class{
+    font-size: 10px;
+}

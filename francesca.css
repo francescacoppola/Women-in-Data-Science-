@@ -1,0 +1,15 @@
+p{
+    color: pink;
+    font-size: 25px;
+    background-color: black;
+}
+
+p#primero{
+    color: aqua;
+    }
+
+.juli{
+    font-style: italic;
+    color: blueviolet;
+    background-color: black;
+}    
